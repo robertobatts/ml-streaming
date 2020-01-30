@@ -1,0 +1,1 @@
+az iot hub show-connection-string --name $HUB_NAME
